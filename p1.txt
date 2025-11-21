@@ -1,2 +1,1 @@
-t lab experience
-stashing the changes
+this is lab-6 experiment
